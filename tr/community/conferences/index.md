@@ -33,19 +33,18 @@ Bu program, etkinlikler düzenlemek isteyen yerel ve bölgesel grupların masraf
 
 Ruby Central ayrıca 2006 yılında Silikon Vadisi Ruby Konferansı'nı düzenlemek için [SVForum][7] (önceden SDForum) ile takım halinde çalışmıştır.
 
-[RubyNation][8] yıllık bir Ruby konferansıdır.
-Virginia, West Virginia, Maryland ve Washington, DC bölgelerinde faaliyet gösterir.
-
 [WindyCityRails][9], Ruby on Rails konusunda tutkulu olan herkesi bir araya getiren yıllık bir Ruby konferansıdır.
 Chicago merkezli konferans, Ruby topluluğuna 2008'den beri hizmet etmektedir.
 
 [Steel City Ruby][16]: Pittsburg, PA
 
 [GoRuCo][19]: New York City'nin yıllık Ruby konferansı.
-Bir günlük tek konulu bir konferanstır.
+Bir günlük tek eşzamanlı oturumlu bir konferanstır.
 
 [DeccanRubyConf][20]: Pune'un (Hindistan) yıllık Ruby konferansı, tüm güne yayılmış eğlenceli aktiviteler ile geçer.
-Bir günlük tek konulu bir konferanstır.
+Bir günlük tek eşzamanlı oturumlu bir konferanstır.
+
+[Southeast Ruby][21]: Nashville, TN atölye ve konferans.
 
 ### Diğer Konferanslarda Ruby
 
@@ -63,7 +62,6 @@ Ayrıca Ruby Central'in [RailsConf][12]'u, [RailsConf Avrupa][13] (2006'da Ruby 
 [4]: http://euruko.org
 [6]: http://rubycentral.org/community/grant
 [7]: http://www.svforum.org
-[8]: http://rubynation.org/
 [9]: http://windycityrails.org
 [10]: http://conferences.oreillynet.com/os2006/
 [11]: http://www.rubyonrails.org
@@ -73,3 +71,4 @@ Ayrıca Ruby Central'in [RailsConf][12]'u, [RailsConf Avrupa][13] (2006'da Ruby 
 [16]: http://steelcityruby.org/
 [19]: http://goruco.com/
 [20]: http://www.deccanrubyconf.org/
+[21]: https://southeastruby.com/
